@@ -26,5 +26,3 @@ programs/   → Assembly and hex programs
 - ModelSim
 - Intel Quartus Prime
 
-## Author
-Single Cycle RISC-V CPU Project
