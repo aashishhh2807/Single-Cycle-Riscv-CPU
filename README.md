@@ -15,12 +15,15 @@ This project implements a 32-bit Single Cycle RISC-V processor using Verilog RTL
 - Immediate Generator
 - Multiplexers
 - Datapath
-
 ## Folder Structure
 
-src/        → Top level CPU modules  
-components/ → Processor submodules  
-programs/   → Assembly and hex programs  
+```
+project
+|-- src       → Top level CPU modules
+|-- components  → Processor submodules
+|-- programs   → Assembly and hex programs
+└── README.md
+```
 
 ## Tools Used
 - ModelSim
